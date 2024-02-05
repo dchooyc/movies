@@ -1,0 +1,119 @@
+{
+  "films": [
+    {
+      "title": "Midway",
+      "url": "https://www.rottentomatoes.com/m/midway_2019",
+      "poster_url": "https://resizing.flixster.com/Ux3-Sq2yZAE6ySp32ryfkKuHJRY=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16843110_p_v12_ap.jpg",
+      "media_type": "movie",
+      "rating": "PG-13",
+      "year": "2019",
+      "genre": "War/History",
+      "runtime": "2h 18m",
+      "audience_score": 92,
+      "tomato_score": 42,
+      "ratings": 10000,
+      "similar_films": [
+        "the_color_purple",
+        "the_promised_land_2023",
+        "society_of_the_snow",
+        "greyhound",
+        "devotion_2022",
+        "operation_mincemeat",
+        "dunkirk_2017",
+        "the_monuments_men"
+      ]
+    },
+    {
+      "title": "Devotion",
+      "url": "https://www.rottentomatoes.com/m/devotion_2022",
+      "poster_url": "https://resizing.flixster.com/sAW3UWPnbEDOHSP5N_87WKSQFYg=/206x305/v2/https://resizing.flixster.com/bewkINYSfH_9LYdcxDC2LNLEbQA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3NTc0OTI3LTgzNDQtNGE1MS1iMDMzLTk5OWQ2MjU0NmUzNC5qcGc=",
+      "media_type": "movie",
+      "rating": "PG-13",
+      "year": "2022",
+      "genre": "War/History",
+      "runtime": "2h 19m",
+      "audience_score": 92,
+      "tomato_score": 81,
+      "ratings": 1000,
+      "similar_films": [
+        "the_color_purple",
+        "the_promised_land_2023",
+        "society_of_the_snow",
+        "greyhound",
+        "midway_2019",
+        "operation_mincemeat",
+        "dunkirk_2017",
+        "red-tails"
+      ]
+    },
+    {
+      "title": "Dunkirk",
+      "url": "https://www.rottentomatoes.com/m/dunkirk_2017",
+      "poster_url": "https://resizing.flixster.com/zEuNo4x7n1VieEu0VRsfI7pJNpE=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13153578_p_v8_af.jpg",
+      "media_type": "movie",
+      "rating": "PG-13",
+      "year": "2017",
+      "genre": "War/History",
+      "runtime": "1h 47m",
+      "audience_score": 81,
+      "tomato_score": 92,
+      "ratings": 50000,
+      "similar_films": [
+        "the_color_purple",
+        "the_promised_land_2023",
+        "society_of_the_snow",
+        "operation_mincemeat",
+        "midway_2019",
+        "greyhound",
+        "war_horse",
+        "the_monuments_men"
+      ]
+    },
+    {
+      "title": "Greyhound",
+      "url": "https://www.rottentomatoes.com/m/greyhound",
+      "poster_url": "https://resizing.flixster.com/p705PYUoIw37_zTx7nTS4mlZCZg=/206x305/v2/https://resizing.flixster.com/AYi9IiSUGR7hKDvXwSiCCCNwvlA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhNzBiY2NjLTZjODctNGUwZi1iZGM5LTViNTlmODJjMWVmMC5wbmc=",
+      "media_type": "movie",
+      "rating": "PG-13",
+      "year": "2020",
+      "genre": "War/History",
+      "runtime": "1h 32m",
+      "audience_score": 76,
+      "tomato_score": 78,
+      "ratings": 1000,
+      "similar_films": [
+        "the_color_purple",
+        "the_promised_land_2023",
+        "society_of_the_snow",
+        "midway_2019",
+        "devotion_2022",
+        "operation_mincemeat",
+        "the_monuments_men",
+        "war_horse"
+      ]
+    },
+    {
+      "title": "Rescue Dawn",
+      "url": "https://www.rottentomatoes.com/m/rescue_dawn",
+      "poster_url": "https://resizing.flixster.com/Eabdyq_wv-4_vgANn1SqkrmpXgA=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163879_p_v8_ap.jpg",
+      "media_type": "movie",
+      "rating": "PG-13",
+      "year": "2006",
+      "genre": "War/History",
+      "runtime": "2h 5m",
+      "audience_score": 75,
+      "tomato_score": 90,
+      "ratings": 100000,
+      "similar_films": [
+        "the_color_purple",
+        "the_promised_land_2023",
+        "society_of_the_snow",
+        "canopy",
+        "war_horse",
+        "alamo",
+        "little_boy_2015",
+        "the_flight_of_the_intruder"
+      ]
+    }
+  ]
+}

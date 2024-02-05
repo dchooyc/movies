@@ -1,0 +1,27 @@
+{
+  "films": [
+    {
+      "title": "A Dry White Season",
+      "url": "https://www.rottentomatoes.com/m/dry_white_season",
+      "poster_url": "https://resizing.flixster.com/sXz6NokBBIpGfYf-OAGvcR1AKpo=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11856_p_v8_aa.jpg",
+      "media_type": "movie",
+      "rating": "R",
+      "year": "1989",
+      "genre": "Drama/Mystery & thriller",
+      "runtime": "1h 37m",
+      "audience_score": 76,
+      "tomato_score": 82,
+      "ratings": 2500,
+      "similar_films": [
+        "the_color_purple",
+        "the_promised_land_2023",
+        "society_of_the_snow",
+        "six_degrees_of_separation",
+        "scandal_1989",
+        "reversal_of_fortune",
+        "day_of_the_locust",
+        "cal"
+      ]
+    }
+  ]
+}
