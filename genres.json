@@ -1,10 +1,26 @@
 {
   "genres": [
+    "Action",
     "Adventure",
+    "Anime",
+    "Biography",
+    "Comedy",
+    "Crime",
+    "Documentary",
     "Drama",
+    "Fantasy",
     "History",
+    "Holiday",
+    "Horror",
+    "Kids & family",
+    "Music",
     "Musical",
     "Mystery & thriller",
-    "War"
+    "Romance",
+    "Sci-fi",
+    "Sports",
+    "Variety",
+    "War",
+    "Western"
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "films": [
+    {
+      "title": "Air",
+      "url": "https://www.rottentomatoes.com/m/air_2023",
+      "poster_url": "https://resizing.flixster.com/M5lA43E9sv8_fH4iB9zz44oySz4=/206x305/v2/https://resizing.flixster.com/YCmO8jyzF8PEJ5djT_x4TiRAw7Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0MjcwZGUyLTE4NzctNDgyMi05ZmI0LWM4OWJkZjgxMDMyMi5qcGc=",
+      "media_type": "movie",
+      "rating": "R",
+      "year": "2023",
+      "genre": "Drama/Sports",
+      "runtime": "1h 52m",
+      "audience_score": 98,
+      "tomato_score": 93,
+      "ratings": 2500,
+      "similar_films": [
+        "the_promised_land_2023",
+        "inside_the_yellow_cocoon_shell",
+        "orion_and_the_dark",
+        "she_said",
+        "the_way_back_2020",
+        "national_champions",
+        "the_road_to_galena",
+        "hustle_2022"
+      ]
+    },
+    {
+      "title": "Lady Ballers",
+      "url": "https://www.rottentomatoes.com/m/lady_ballers",
+      "poster_url": "https://resizing.flixster.com/42fi14ZbTw34NOJM0v_ksxBSlb4=/206x305/v2/https://resizing.flixster.com/1OUD8-iixx5JYxVJdpntqyjxso4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk4MTI2OWVkLTkxNjQtNDE3Yy04YjM2LThkN2ZjMTZhYmQyYS5qcGc=",
+      "media_type": "movie",
+      "rating": "",
+      "year": "2023",
+      "genre": "Comedy/Sports",
+      "runtime": "1h 50m",
+      "audience_score": 90,
+      "tomato_score": 43,
+      "ratings": 5000,
+      "similar_films": [
+        "the_promised_land_2023",
+        "inside_the_yellow_cocoon_shell",
+        "orion_and_the_dark",
+        "time_addicts",
+        "satan_wants_you",
+        "killer_book_club",
+        "adalynn",
+        "music_2023"
+      ]
+    },
+    {
+      "title": "White Men Can't Jump",
+      "url": "https://www.rottentomatoes.com/m/white_men_cant_jump",
+      "poster_url": "https://resizing.flixster.com/YTPftS4m_aXFKSaArWYGs3xFNog=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13866_p_v10_ac.jpg",
+      "media_type": "movie",
+      "rating": "R",
+      "year": "1992",
+      "genre": "Comedy/Sports",
+      "runtime": "1h 54m",
+      "audience_score": 69,
+      "tomato_score": 75,
+      "ratings": 100000,
+      "similar_films": [
+        "the_promised_land_2023",
+        "inside_the_yellow_cocoon_shell",
+        "orion_and_the_dark",
+        "great_white_hype",
+        "my_cousin_vinny",
+        "tin_cup",
+        "grandmas_boy",
+        "the-distinguished-gentleman"
+      ]
+    }
+  ]
+}

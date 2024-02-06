@@ -1,0 +1,27 @@
+{
+  "films": [
+    {
+      "title": "A Very Murray Christmas",
+      "url": "https://www.rottentomatoes.com/m/a_very_murray_christmas",
+      "poster_url": "https://resizing.flixster.com/4iUC1wvlwZHDq7gb1JtVZanakzE=/206x305/v2/https://resizing.flixster.com/F6oVcltO8csGa7CcdylntXD889w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0ZDg0MzU0LWE4YjAtNDA1NC05N2MzLWYwMTAzNWU4MGU2YS5qcGc=",
+      "media_type": "movie",
+      "rating": "",
+      "year": "2015",
+      "genre": "Holiday/Variety",
+      "runtime": "56m",
+      "audience_score": 38,
+      "tomato_score": 68,
+      "ratings": 1000,
+      "similar_films": [
+        "the_promised_land_2023",
+        "inside_the_yellow_cocoon_shell",
+        "orion_and_the_dark",
+        "on_the_rocks_2020",
+        "the_bling_ring_2013",
+        "priscilla",
+        "fairyland",
+        "1158195-marie_antoinette"
+      ]
+    }
+  ]
+}

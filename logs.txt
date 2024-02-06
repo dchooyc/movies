@@ -1,0 +1,23 @@
+Length of all movies:  1055
+Created:  jsons/Western.json  with length:  78
+Created:  jsons/Sports.json  with length:  3
+Created:  jsons/Kids & family.json  with length:  104
+Created:  jsons/Action.json  with length:  156
+Created:  jsons/Romance.json  with length:  89
+Created:  jsons/Comedy.json  with length:  177
+Created:  jsons/Musical.json  with length:  99
+Created:  jsons/Horror.json  with length:  90
+Created:  jsons/Documentary.json  with length:  39
+Created:  jsons/Variety.json  with length:  1
+Created:  jsons/History.json  with length:  127
+Created:  jsons/Drama.json  with length:  321
+Created:  jsons/Holiday.json  with length:  52
+Created:  jsons/Adventure.json  with length:  154
+Created:  jsons/Mystery & thriller.json  with length:  125
+Created:  jsons/Music.json  with length:  21
+Created:  jsons/Anime.json  with length:  17
+Created:  jsons/Fantasy.json  with length:  62
+Created:  jsons/Sci-fi.json  with length:  64
+Created:  jsons/War.json  with length:  63
+Created:  jsons/Crime.json  with length:  86
+Created:  jsons/Biography.json  with length:  87
